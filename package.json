@@ -19,6 +19,7 @@
     "eco": "^1.1.0-rc-3",
     "ect": "^0.5.9",
     "ejs": "^2.3.4",
+    "etpl": "^3.2.0",
     "eslint": "^3.7.1",
     "eslint-config-standard": "^6.2.0",
     "eslint-plugin-promise": "^3.3.1",
