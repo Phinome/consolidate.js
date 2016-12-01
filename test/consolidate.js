@@ -6,6 +6,7 @@ require('./shared').test('liquid');
 require('./shared/filters').test('liquid');
 require('./shared/includes').test('liquid');
 require('./shared').test('ejs');
+require('./shared').test('etpl');
 require('./shared').test('swig');
 require('./shared').test('jazz');
 require('./shared').test('jqtpl');
