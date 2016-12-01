@@ -16,6 +16,7 @@
   - [eco](https://github.com/sstephenson/eco)
   - [ect](https://github.com/baryshev/ect) [(website)](http://ectjs.com/)
   - [ejs](https://github.com/mde/ejs) [(website)](http://ejs.co/)
+  - [etpl](https://github.com/ecomfe/etpl)[(website)](http://ecomfe.github.io/etpl/)
   - [haml](https://github.com/visionmedia/haml.js)
   - [haml-coffee](https://github.com/9elements/haml-coffee)
   - [hamlet](https://github.com/gregwebs/hamlet.js)
